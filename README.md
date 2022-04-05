@@ -15,7 +15,7 @@ ___
 ### 26-November-2020
 | Dataset | Download  | Description |
 | ------------- |:-----------------| -----|
-|Narrowband Hyperspectral| <a href="https://zenodo.org/record/6413333/files/Olives_26_11_2020_Narrowband.zip?download=1">Narrowband Hyperspectral</a>  | Color Infrared composition image|
+|Narrowband Hyperspectral| <a href="https://zenodo.org/record/6413333/files/Olives_26_11_2020_Narrowband.zip?download=1">Narrowband Hyperspectral</a>  | Color Infrared composition image<sup>*</sup> |
 |Thermal| <a href="https://zenodo.org/record/6413333/files/Olives_26_11_2020_Thermal.zip?download=1">Thermal</a>  |Thermal Infrared image|
 ### 04-December-2021
 | Dataset | Download  | Description |
@@ -24,7 +24,7 @@ ___
 ### 03-February-2022
 | Dataset | Download  | Description |
 | ------------- |:-----------------| -----|
-|Narrowband Hyperspectral| <a href="https://zenodo.org/record/6413333/files/Olives_03_03_2022_Narrowband.zip?download=1">Narrowband Hyperspectral</a>  | Color Infrared composition image|
+|Narrowband Hyperspectral| <a href="https://zenodo.org/record/6413333/files/Olives_03_03_2022_Narrowband.zip?download=1">Narrowband Hyperspectral</a>  | Color Infrared composition image<sup>*</sup> |
 |Airborne Multispectral| <a href="https://zenodo.org/record/6413333/files/Olives_03_03_2022_Micasense.zip?download=1">Multispectral</a>  | Micasense Multispectral image|
 |Thermal| <a href="https://zenodo.org/record/6413333/files/Olives_03_03_2022_Thermal.zip?download=1">Thermal</a>  |Thermal Infrared image|
 
@@ -33,14 +33,14 @@ ___
 ### 19-November-2020
 | Dataset | Download  | Description |
 | ------------- |:-----------------| -----|
-|Narrowband Hyperspectral| <a href="https://zenodo.org/record/6413333/files/Almonds_17_02_2020_Narrowband.zip?download=1">Narrowband Hyperspectral</a>  | Color Infrared composition image|
+|Narrowband Hyperspectral| <a href="https://zenodo.org/record/6413333/files/Almonds_17_02_2020_Narrowband.zip?download=1">Narrowband Hyperspectral</a>  | Color Infrared composition image<sup>*</sup> |
 |Thermal| <a href="https://zenodo.org/record/6413333/files/Almonds_17_02_2020_Thermal.zip?download=1">Thermal</a>  |Thermal Infrared image|
 ___
 ## Citrus
 ### 26-November-2020
 | Dataset | Download  | Description |
 | ------------- |:-----------------| -----|
-|Narrowband Hyperspectral| <a href="https://zenodo.org/record/6413333/files/Citrus_26_11_2020_Narrowband.zip?download=1">Narrowband Hyperspectral</a>  | Color Infrared composition image|
+|Narrowband Hyperspectral| <a href="https://zenodo.org/record/6413333/files/Citrus_26_11_2020_Narrowband.zip?download=1">Narrowband Hyperspectral</a>  | Color Infrared composition image<sup>*</sup> |
 |Thermal| <a href="https://zenodo.org/record/6413333/files/Citrus_26_11_2020_Thermal.zip?download=1">Thermal</a>  |Thermal Infrared image|
 
 ___
@@ -51,4 +51,7 @@ ___
 |Deliverable 3| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_3.pdf?download=1">Deliverable 3</a>  | Delivrable submitted on the 24-February-2021|
 |Deliverable 4| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_4.pdf?download=1">Deliverable 4</a>  | Delivrable submitted on the 15-May-2021|
 |Deliverable 5| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_5.pdf?download=1">Deliverable 5</a>  | Delivrable submitted on the 15-February-2022|
+
+
+<sup>*</sup>Full spectrum imagery can be provided upon request 
 
