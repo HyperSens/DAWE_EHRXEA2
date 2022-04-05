@@ -53,7 +53,6 @@ ___
 |Deliverable 5| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_5.pdf?download=1">Deliverable 5</a>  | Delivrable submitted on the 15-February-2022|
 
 
-
-                                                                  <sup>* Full spectrum imagery can be provided upon request </sup> <br>
+<sup>* Full spectrum imagery can be provided upon request </sup> <br>
 
 
