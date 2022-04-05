@@ -47,10 +47,10 @@ ___
 ## Deliverables
 | Deliverable | Download  | Description |
 | ------------- |:-----------------| -----|
-|Deliverable 2| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_2.pdf?download=1">Deliverable 2</a>  | Delivrable submitted on the 31-July-2020 |
-|Deliverable 3| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_3.pdf?download=1">Deliverable 3</a>  | Delivrable submitted on the 24-February-2021|
-|Deliverable 4| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_4.pdf?download=1">Deliverable 4</a>  | Delivrable submitted on the 15-May-2021|
-|Deliverable 5| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_5.pdf?download=1">Deliverable 5</a>  | Delivrable submitted on the 15-February-2022|
+|Deliverable 2| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_2.pdf?download=1">Deliverable 2</a>  | Deliverable submitted on the 31-July-2020 |
+|Deliverable 3| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_3.pdf?download=1">Deliverable 3</a>  | Deliverable submitted on the 24-February-2021|
+|Deliverable 4| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_4.pdf?download=1">Deliverable 4</a>  | Deliverable submitted on the 15-May-2021|
+|Deliverable 5| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_5.pdf?download=1">Deliverable 5</a>  | Deliverable submitted on the 15-February-2022|
 
 ___
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>* Full spectrum imagery can be provided upon request </sup> <br>
