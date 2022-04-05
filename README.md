@@ -6,7 +6,7 @@ Professor Pablo J. Zarco-Tejada and Dr. Tomas Poblete
 ___
 ### INSTRUCTIONS
 The datasets provided in this repository are detailed as follows:
-
+___
 # Olives
 ### 19-November-2020
 | Dataset | Download  | Description |
@@ -28,14 +28,14 @@ The datasets provided in this repository are detailed as follows:
 |Airborne Multispectral| <a href="https://zenodo.org/record/6413333/files/Olives_03_03_2022_Micasense.zip?download=1">Multispectral</a>  | Micasense Multispectral image|
 |Thermal| <a href="https://zenodo.org/record/6413333/files/Olives_03_03_2022_Thermal.zip?download=1">Thermal</a>  |Thermal Infrared image|
 
-
+___
 ### Almonds
 ### 19-November-2020
 | Dataset | Download  | Description |
 | ------------- |:-----------------| -----|
 |Narrowband Hyperspectral| <a href="https://zenodo.org/record/6413333/files/Almonds_17_02_2020_Narrowband.zip?download=1">Narrowband Hyperspectral</a>  | Color Infrared composition image|
 |Thermal| <a href="https://zenodo.org/record/6413333/files/Almonds_17_02_2020_Thermal.zip?download=1">Thermal</a>  |Thermal Infrared image|
-
+___
 ### Citrus
 ### 26-November-2020
 | Dataset | Download  | Description |
@@ -43,7 +43,7 @@ The datasets provided in this repository are detailed as follows:
 |Narrowband Hyperspectral| <a href="https://zenodo.org/record/6413333/files/Citrus_26_11_2020_Narrowband.zip?download=1">Narrowband Hyperspectral</a>  | Color Infrared composition image|
 |Thermal| <a href="https://zenodo.org/record/6413333/files/Citrus_26_11_2020_Thermal.zip?download=1">Thermal</a>  |Thermal Infrared image|
 
-
+___
 ### Deliverables
 | Deliverable | Download  | Description |
 | ------------- |:-----------------| -----|
