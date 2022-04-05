@@ -55,5 +55,6 @@ ___
 
 
 ___
-                                                                  <sup>*Full spectrum imagery can be provided upon request </sup><br>
+                                                                  <sup>* Full spectrum imagery can be provided upon request </sup> <br>
+
 
