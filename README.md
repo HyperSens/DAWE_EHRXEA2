@@ -7,7 +7,7 @@ ___
 ### INSTRUCTIONS
 The datasets provided in this repository are detailed as follows:
 ___
-# Olives
+## Olives
 ### 19-November-2020
 | Dataset | Download  | Description |
 | ------------- |:-----------------| -----|
@@ -29,14 +29,14 @@ ___
 |Thermal| <a href="https://zenodo.org/record/6413333/files/Olives_03_03_2022_Thermal.zip?download=1">Thermal</a>  |Thermal Infrared image|
 
 ___
-### Almonds
+## Almonds
 ### 19-November-2020
 | Dataset | Download  | Description |
 | ------------- |:-----------------| -----|
 |Narrowband Hyperspectral| <a href="https://zenodo.org/record/6413333/files/Almonds_17_02_2020_Narrowband.zip?download=1">Narrowband Hyperspectral</a>  | Color Infrared composition image|
 |Thermal| <a href="https://zenodo.org/record/6413333/files/Almonds_17_02_2020_Thermal.zip?download=1">Thermal</a>  |Thermal Infrared image|
 ___
-### Citrus
+## Citrus
 ### 26-November-2020
 | Dataset | Download  | Description |
 | ------------- |:-----------------| -----|
@@ -44,7 +44,7 @@ ___
 |Thermal| <a href="https://zenodo.org/record/6413333/files/Citrus_26_11_2020_Thermal.zip?download=1">Thermal</a>  |Thermal Infrared image|
 
 ___
-### Deliverables
+## Deliverables
 | Deliverable | Download  | Description |
 | ------------- |:-----------------| -----|
 |Deliverable 2| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_2.pdf?download=1">Deliverable 2</a>  | Delivrable submitted on the 31-July-2020 |
