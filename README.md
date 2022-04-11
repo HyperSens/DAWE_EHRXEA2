@@ -47,12 +47,12 @@ ___
 ## Deliverables
 | Deliverable | Download  | Description |
 | ------------- |:-----------------| -----|
-|Deliverable 1| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_5.pdf?download=1">Deliverable 5</a>  | Deliverable submitted on the 08-May-2020|
+|Deliverable 1| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_5.pdf?download=1">Deliverable 1</a>  | Deliverable submitted on the 08-May-2020|
 |Deliverable 2| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_2.pdf?download=1">Deliverable 2</a>  | Deliverable submitted on the 31-July-2020 |
 |Deliverable 3| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_3.pdf?download=1">Deliverable 3</a>  | Deliverable submitted on the 24-February-2021|
 |Deliverable 4| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_4.pdf?download=1">Deliverable 4</a>  | Deliverable submitted on the 15-May-2021|
 |Deliverable 5| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_5.pdf?download=1">Deliverable 5</a>  | Deliverable submitted on the 15-February-2022|
-|Deliverable final| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_5.pdf?download=1">Deliverable 5</a>  | Deliverable submitted on the 14-April-2022|
+|Deliverable final| <a href="https://zenodo.org/record/6413333/files/DAWE_EHRXEA2_Deliverable_5.pdf?download=1">Deliverable final</a>  | Deliverable submitted on the 14-April-2022|
 
 
 ___
